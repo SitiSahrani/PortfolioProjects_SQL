@@ -41,7 +41,7 @@ The data used in this project comes from the COVID-19 dataset, which includes:
 - Storing results in a **temporary table** and a **view** for easier visualization
 
 ## 📜 SQL Queries
-The SQL scripts used in this project can be found in [`covid_analysis.sql`](covid_analysis.sql). These queries cover:
+The SQL scripts used in this project can be found in [`Project1_COVID.sql`](Project1_COVID.sql). These queries cover:
 - Case & death analysis
 - Infection rate comparison
 - Vaccination tracking using **CTE, Temp Tables, and Views**
