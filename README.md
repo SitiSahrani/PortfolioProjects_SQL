@@ -13,7 +13,7 @@ The dataset used in this project contains COVID-19 cases, deaths, and vaccinatio
 
 ## 📂 Dataset
 The data used in this project comes from the COVID-19 dataset, which includes:
-- **COVID-19 Cases & Deaths** (`CovidDeaths`)
+- **COVID-19 Cases & Deaths** (`CovidDeaths.csv`)
 - **COVID-19 Vaccinations** (`CovidVaccinations`)
 
 ## 📊 SQL Queries & Analysis
