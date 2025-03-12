@@ -50,6 +50,6 @@ The SQL scripts used in this project can be found in [`Project1_COVID.sql`](Proj
 This project was inspired by [Alex The Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM). Some SQL concepts were adapted and modified for this project.
 
 ## 📌 How to Use
-1. Clone this repository:
+Clone this repository:
    git clone [https://github.com/SitiSahrani/PortfolioProjects_SQL.git]
    
